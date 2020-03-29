@@ -1,6 +1,6 @@
 """
 In this section we will look at the first core principal of logic flow branching.
-If statemetns are at the core of programming logic. This is the primary mechanism to codify our logic.
+If statements are at the core of programming logic. This is the primary mechanism to codify our logic.
 An if statement evaluates a boolean expression and responds accordingly based on resulting value.
 """
 
@@ -37,7 +37,8 @@ else:
         print("You lose")
     else:
         print("You win!")
-# turnary operator
+        
+# ternary operator
 # value = other_value if other_value else "test"
 
 # value = other_value or "default value" - evaluate if other_value is None

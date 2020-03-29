@@ -34,7 +34,7 @@ input = "Let's test this string with a bunch of words"
 result = input.split(" ")
 print(result[::2])
 
-chat_command = "!alarm this is outragous!!!"
+chat_command = "!alarm this is outrageous!!!"
 tokens = chat_command.split(" ")
 command = tokens[0]
 print(command)

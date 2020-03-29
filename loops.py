@@ -7,10 +7,29 @@ Another very essential part of logic flow is ability to loop. Looping is used in
 """
 
 # while loop
+# import random
+# test = 0
+# while test != 10:
+#         test=random.randint(0,20)
+#         print(f"Test is {test}")
 
 # for loop
+days = ["Mon", "Tues", "Wed", "Thurs", "Fri", "Sat", "Sun"]
+
 # loop over items in a collection
-# loop over items in a dictionarry
+for day in days:
+    print(f"This day is {day}")
+
+# loop over items in a dictionary
+sample_dict = {"one": "first", "two": 2, "three": True, "four": 4.321}
+#this does keys
+for k in sample_dict:
+    print(f"We got {k}")
+    print(f"k type is {type(k)}")
+# do keys and values
+for k, v in sample_dict.items():
+    print(f"We got k: {k} v: {v}")
+    print(f"k type is {type(k)}; v type is {type(v)}")
 # loop over range - range is a generator
 
 """
