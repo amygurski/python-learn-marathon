@@ -5,6 +5,7 @@ This is a repo for a Learn Python For Charity Event.
 
 ~~The event will be held on Twitch **Sun March 22, 2020 10:00 AM - 6:00 PM EST**. Depending on success will be continued on~~ 
 The next session is held **Sun March 29, 2020 10:00 AM - 6:00 PM EST**.
+The event will be held on Twitch **Sun March 22, 2020 10:00 AM - 6:00 PM EST**. Depending on success will be continued on **Sun March 29, 2020**.
 This event is to rais money for Lucimia Foundation that is being held at our local school.
 
 <iframe src="https://player.twitch.tv/?channel=dean_forward" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe><a href="https://www.twitch.tv/dean_forward?tt_content=text_link&tt_medium=live_embed" style="padding:2px 0px 4px; display:block; width:345px; font-weight:normal; font-size:10px; text-decoration:underline;">Watch live video from dean_forward on www.twitch.tv</a>
